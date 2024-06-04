@@ -16,7 +16,7 @@
 // URL: https://github.com/fniessen/org-html-themes/
 // Version: 20140515.1841
 
-$(function() {
+/*$(function() {
     $('p').
         html(function(index, old) {
             return old.replace('FIXME',
@@ -27,7 +27,7 @@ $(function() {
             return old.replace('XXX',
                                '<span class="fixme">XXX</span>');
     });
-});
+});*/
 
 // Remove leading section number
 $(function() {
